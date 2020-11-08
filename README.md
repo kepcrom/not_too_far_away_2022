@@ -5,7 +5,7 @@ Website for exploring the Not To Distant Future through Art
 Participation
 -----
 We are currently allowing participation by invite only. 
-If you want to take part in this project please email me at kepcrom@gmail.com and include "Not To Far Away - 2022" in the subject line.
+If you want to take part in this project please email me at kepcrom@gmail.com and include "Not Too Far Away - 2022" in the subject line.
 
 
 Open Positions
