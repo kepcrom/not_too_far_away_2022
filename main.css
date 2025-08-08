@@ -9,7 +9,7 @@ body
   display: grid;
   grid-template-columns: 20% 60% 20%;
   background-color: aqua;
-  column-gap: 1em;
+  column-gap: 5px;
 }
 
 .headline
