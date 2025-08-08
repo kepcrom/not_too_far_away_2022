@@ -8,10 +8,17 @@ body
 {
   display: grid;
   grid-template-columns: 20% 60% 20%;
+  background-color: aqua;
+  column-gap: 1em;
 }
 
 .headline
 {
   grid-column: 1 / span 3;
+  background-color: black;
 }
 
+.newspaper.div
+{
+  background-color: black;
+}
