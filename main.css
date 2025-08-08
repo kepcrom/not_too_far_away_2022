@@ -3,3 +3,15 @@ body
   background-color : #000;
   color: #0CF;
 }
+
+.newspaper
+{
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+}
+
+.headline
+{
+  grid-column: 1 / span 3;
+}
+
